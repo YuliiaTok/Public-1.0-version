@@ -1,5 +1,4 @@
 
-![[360_F_562116144_lxZOlafYtRtv8BzmKTKGcNby0D37ZVTZ.jpg]]
 
 - Dreams are believed to be a combination of imagination, phycological factors, and neurological factors. They prove that your brain is working even when you are sleeping.
 

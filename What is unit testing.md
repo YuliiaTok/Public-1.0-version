@@ -1,0 +1,11 @@
+Unit testing is a [software](https://www.techtarget.com/searchapparchitecture/definition/software) development process in which the smallest testable parts of an [application](https://www.techtarget.com/searchsoftwarequality/definition/application), called units, are individually scrutinized for proper operation. Software developers and sometimes QA staff complete unit tests during the development process. The main objective of unit testing is to isolate written code to test and determine if it works as intended.
+
+Unit testing is an important step in the development process. If done correctly, unit tests can detect early flaws in code which may be more difficult to find in later testing stages.
+
+Unit testing is a component of [test-driven development (TDD)](https://www.techtarget.com/searchsoftwarequality/definition/test-driven-development), a pragmatic methodology that takes a meticulous approach to building a product by means of continual testing and revision. This testing method is also the first level of software testing, which is performed before other testing methods such as [integration testing](https://www.techtarget.com/searchsoftwarequality/definition/integration-testing). Unit tests are typically isolated to ensure a unit does not rely on any external code or functions. Teams should perform unit tests frequently, either manually or more often automated.
+
+## How unit tests work
+
+A unit test comprises three stages: planning, [writing test cases](https://www.techtarget.com/searchsoftwarequality/tip/How-to-write-test-cases-one-component-at-a-time) and performing the unit test itself. In the first step, developers or QA professionals prepare and review the unit test. In the next step, they write test cases and scripts. In the third step the code is tested.
+
+Test-driven development requires that developers first write failing unit tests. Then they write code and refactor the application until the test passes. TDD typically results in an explicit and predictable codebase.
